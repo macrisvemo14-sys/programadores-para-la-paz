@@ -1,0 +1,9 @@
+La terminal es el canal de comunicación más directo y eficiente entre un desarrollador y el
+sistema operativo, permitiendo automatizar tareas y agilizar flujos de trabajo que en la interfaz
+gráfica resultarían lentos o repetitivos. Al dominar la navegación y la organización de archivos
+por consola, el programador adquiere un control absoluto sobre la estructura de su proyecto,
+facilitando la búsqueda rápida de módulos y la correcta gestión de directorios complejos.
+Además, este conocimiento es fundamental para interactuar con herramientas esenciales del
+ecosistema de desarrollo, tales como sistemas de control de versiones como Git, entornos de
+contenedores como Docker, o despliegues en servidores remotos que carecen por completo de interfaz
+visual, optimizando el rendimiento diario y proporcionando autonomía técnica indispensable.

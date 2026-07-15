@@ -1,0 +1,9 @@
+Mantener un registro de cambios mediante Git es crucial porque actúa como la bitácora e historial
+médico de un proyecto de software, permitiendo que múltiples desarrolladores colaboren de forma
+sincrónica y sin riesgo de sobrescribir el trabajo de otros. Gracias a esto, si una nueva línea
+de código introduce un fallo crítico en el sistema, el equipo puede rastrear con precisión el origen
+exacto del error, auditar quién lo realizó y revertir el proyecto a un estado seguro y estable en
+cuestión de segundos. Asimismo, este registro documentado a través de mensajes de confirmación
+proporciona una claridad invaluable para comprender la evolución técnica de la plataforma,
+facilitando la integración continua, optimizando las auditorías de código y garantizando la
+escalabilidad y la calidad a largo plazo de cualquier desarrollo tecnológico profesional.

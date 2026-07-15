@@ -1,0 +1,28 @@
+MODELO DE DATOS BÁSICO - PLATAFORMA COMUNITARIA (SEMANA 10)
+
+Entidad: Reporte
+
+Campos principales:
+- id (Clave primaria, autoincremental / UUID)
+- titulo (Texto corto - resumen del reporte)
+- descripcion (Texto largo - detalle de la situación o incidencia)
+- categoria (Texto - ej: infraestructura, seguridad, medio ambiente)
+- comuna_barrio (Texto - ubicación general de la incidencia)
+- estado (Texto - ej: pendiente, en revisión, solucionado)
+- fecha_creacion (Fecha y hora de registro)
+
+Propósito:
+Almacenar de forma organizada las incidencias, necesidades o propuestas ciudadanas reportadas por la comunidad, sirviendo como la base del mapa público de seguimiento de problemas de la comuna.
+
+
+Entidad: Veeduria_Accion
+
+Campos principales:
+- id (Clave primaria, autoincremental / UUID)
+- reporte_id (Clave foránea - relación con la entidad Reporte)
+- responsable_rol (Texto - rol de la persona que realiza la acción)
+- descripcion_accion (Texto largo - detalle del avance, visita o gestión)
+- fecha_accion (Fecha y hora del registro del avance)
+
+Propósito:
+Registrar de manera secuencial e histórica cada una de las gestiones, inspecciones o respuestas que el equipo técnico o los veedores comunitarios realizan sobre un reporte específico, permitiendo a los ciudadanos hacer auditoría y seguimiento en tiempo real al proceso de solución.

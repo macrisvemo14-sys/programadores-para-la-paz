@@ -1,0 +1,5 @@
+El inicio de sesión es el procedimiento de seguridad que verifica la identidad de un usuario antes de que pueda utilizar la plataforma.
+Limitar el acceso a rutas específicas es esencial para resguardar el panel de control, el registro de modificaciones y las acciones que están restringidas.
+La divulgación pública de información personal, como identificaciones, correos electrónicos, números de teléfono o direcciones, pone en grave riesgo la privacidad de los usuarios.
+Asimismo, es crucial mantener en secreto las credenciales de desarrollo, como tokens de sesión y claves de API, para prevenir posibles hackeos.
+Establecer este control garantiza que cada usuario tenga acceso solamente a lo que le corresponde, resguardando la seguridad del entorno.

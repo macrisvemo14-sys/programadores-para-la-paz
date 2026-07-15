@@ -1,0 +1,8 @@
+La integración de una base de datos, autenticación de usuarios y protección de la información es el cimiento
+técnico y ético de cualquier plataforma participativa. La base de datos garantiza la persistencia,
+organización y trazabilidad de las propuestas e incidencias, evitando que la voz ciudadana se pierda
+en la volatilidad digital. Por su parte, la autenticación de usuarios asegura la legitimidad de la
+participación, previniendo la creación de cuentas falsas o bots que busquen sabotear o manipular la
+opinión comunitaria. Finalmente, la protección estricta de la información blinda la privacidad de los
+vecinos, asegurando que sus denuncias o datos personales no queden expuestos a represalias o ataques.
+Estas tres capas construyen un entorno seguro que consolida la confianza ciudadana y la transparencia.

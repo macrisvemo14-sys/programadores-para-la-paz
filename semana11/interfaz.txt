@@ -1,0 +1,7 @@
+La interfaz principal presentará una vista de las causas disponibles dispuestas en un formato de cuadrícula o una lista pública, lo que permitirá a cualquier visitante explorar las propuestas de la comunidad que están en activo.
+
+En la parte superior o lateral de la página, habrá un formulario para la creación de una causa, que solo pedirá información básica: un título, una descripción completa y la cantidad de apoyos requerida.
+
+Cada una de las propuestas en la lista tendrá su propio contador de apoyos y un botón interactivo que permitirá a los usuarios apoyar la causa, el cual cambiará tanto de Estado como de color cuando se haga clic en él.
+
+El diseño de toda la plataforma se enfocará en ser simple y fácil de usar, garantizando una experiencia de navegación efectiva mientras se protege la privacidad al no incluir información sensible en las áreas visibles para el público.

@@ -1,0 +1,24 @@
+MODELO DE DATOS BÁSICO - PLATAFORMA DE PARTICIPACIÓN
+
+Entidad: Causa
+
+Campos principales:
+- id (Clave primaria / Identificador único)
+- titulo (Texto corto - Título de la causa comunitaria)
+- descripcion (Texto largo - Detalles y argumentos de la causa)
+- fecha (Fecha y hora de creación de la causa)
+
+Propósito / Para qué sirve:
+Sirve para almacenar y centralizar todas las iniciativas, problemáticas o propuestas que los ciudadanos proponen en la plataforma, permitiendo que sean visibles de forma pública para el resto de la comunidad.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Clave primaria / Identificador único)
+- causa_id (Clave foránea - Relación con la entidad Causa)
+- nombre (Texto - Nombre del ciudadano que apoya)
+- fecha (Fecha y hora en la que se registra el apoyo)
+
+Propósito / Para qué sirve:
+Sirve para registrar el respaldo y las firmas de apoyo que los ciudadanos brindan a cada una de las causas publicadas, facilitando la cuantificación del impacto colectivo de una iniciativa antes de ser tramitada de manera formal.

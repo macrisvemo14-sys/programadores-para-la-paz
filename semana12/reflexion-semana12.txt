@@ -1,0 +1,8 @@
+Durante este curso comprendí que la tecnología es un puente indispensable para descentralizar y
+democratizar la participación ciudadana, transformando quejas informales en peticiones estructuradas.
+Aprendí que el desarrollo de software con enfoque social, como el sistema 'Petición en 3 Clics',
+facilita que cualquier persona se involucre activamente en la mejora de su entorno de manera ágil.
+Sin embargo, la clave del éxito no radica solo en escribir código, sino en asegurar la estabilidad
+de los servidores, estructurar bases de datos confiables y proteger estrictamente la información
+de los usuarios. Al conectar la automatización de procesos con herramientas de uso cotidiano, se
+logra optimizar la veeduría comunitaria, devolviéndole el poder de gestión y control a la ciudadanía.

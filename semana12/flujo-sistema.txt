@@ -1,0 +1,16 @@
+FLUJO DE TRABAJO - SISTEMA "PETICIÓN EN 3 CLICS" (SEMANA 11)
+
+1. Creación de la petición (Clic 1):
+   Un ciudadano autenticado ingresa a la plataforma, completa un formulario breve con la descripción y categoría de la problemática de su comunidad, y publica la causa.
+
+2. Registro y persistencia:
+   La petición y los datos generales de su ubicación geográfica se registran de forma automática y segura en la base de datos central de la plataforma.
+
+3. Apoyo de la comunidad (Clic 2):
+   Otros ciudadanos del sector ingresan a la plataforma, visualizan la causa en el mapa y hacen clic en "Apoyar causa" para sumar su firma digital y respaldo.
+
+4. Monitoreo y automatización:
+   El sistema realiza un conteo en tiempo real de las firmas acumuladas y, al alcanzar el umbral mínimo comunitario requerido, envía una notificación de alerta al equipo de veeduría.
+
+5. Generación del documento formal (Clic 3):
+   El ciudadano creador o el administrador presiona el botón de cierre, y el sistema genera automáticamente un documento PDF consolidado con los argumentos de la petición y el listado de firmas, listo para ser radicado ante las entidades públicas competentes.

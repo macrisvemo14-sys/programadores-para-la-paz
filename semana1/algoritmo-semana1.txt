@@ -1,0 +1,44 @@
+========================================================================
+ALGORITMO PARA VERIFICAR Y COMPARTIR INFORMACIÓN CONFIABLE EN INTERNET
+========================================================================
+
+Este algoritmo de 6 pasos está diseñado para ser un filtro lógico y 
+metódico antes de adquirir o difundir cualquier tipo de contenido en la red.
+
+
+1. BUSCAR Y CAPTURAR LA INFORMACIÓN
+   - Descripción: Encontrar la noticia, dato, imagen o artículo que llame tu 
+     atención en la red.
+   - Acción clave: Detenerse antes de reaccionar de forma impulsiva. No te dejes 
+     llevar por el impacto emocional inmediato del titular o la imagen.
+
+2. IDENTIFICAR Y EVALUAR LA FUENTE ORIGINAL
+   - Descripción: Investigar quién es el emisor real de la información.
+   - Acción clave: Localizar el autor, el medio de comunicación o la institución. 
+     Pregúntate: ¿Es una fuente oficial, un experto acreditado, o un sitio web 
+     anónimo sin trayectoria ni firma de responsabilidad?
+
+3. REALIZAR VERIFICACIÓN CRUZADA (COMPARE CON OTRAS FUENTES)
+   - Descripción: Contrastar el hecho con otros canales independientes.
+   - Acción clave: Realizar una búsqueda rápida para ver si al menos dos medios 
+     de comunicación serios o plataformas de reputación comprobada están 
+     reportando exactamente lo mismo.
+
+4. ANALIZAR EL CONTEXTO Y LA FECHA DE PUBLICACIÓN
+   - Descripción: Validar la vigencia del contenido para evitar anacronismos.
+   - Acción clave: Revisar el año, mes y día de la publicación. Asegúrate de que 
+     no estés "reviviendo" un evento del pasado (como una alerta de clima o una 
+     noticia del gobierno de hace 5 años) presentándolo como si ocurriera hoy.
+
+5. CONSULTAR SITIOS DE FACT-CHECKING (VERIFICACIÓN DE DATOS)
+   - Descripción: Descartar activamente falsificaciones, montajes o sátiras.
+   - Acción clave: Buscar si la información ya ha sido analizada y desmentida 
+     por plataformas locales o internacionales dedicadas a la verificación de datos.
+
+6. DECIDIR LA DIFUSIÓN RESPONSABLE
+   - Descripción: Tomar la acción final basada en el resultado de los filtros.
+   - Acción clave: 
+     * SI la información superó con éxito todos los pasos anteriores y es clara 
+       y verídica: Compártela libremente, citando la fuente oficial.
+     * SI queda la más mínima duda sobre su origen o autenticidad: Detén la cadena 
+       y NO la difundas bajo ninguna circunstancia.

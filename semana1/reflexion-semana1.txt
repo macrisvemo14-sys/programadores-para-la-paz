@@ -1,0 +1,10 @@
+Reflexión de la semana:
+El uso responsable de la información, la participación ciudadana y el control de versiones con Git 
+comparten como eje fundamental la trazabilidad y la verificación de la verdad. En la ciudadanía digital, 
+filtrar las noticias falsas antes de difundirlas fortalece la democracia al basar el debate público en 
+hechos reales y comprobables. De la misma manera, en el entorno técnico, herramientas como Git exigen 
+que cada línea de código modificada pase por un proceso estricto de revisión y confirmación (commits) 
+antes de integrarse al proyecto principal. Ambos escenarios requieren una cultura de responsabilidad 
+colectiva donde no se acepta información a ciegas. Así, el rigor metodológico que un programador aplica 
+al auditar el historial de cambios en un repositorio es el mismo pensamiento crítico que un ciudadano 
+consciente debe ejercer al verificar fuentes en internet para evitar que la desinformación corrompa el entorno social o el desarrollo de software.

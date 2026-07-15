@@ -1,0 +1,9 @@
+La recepción de reportes ciudadanos de forma estructurada es vital porque permite a los sistemas
+computacionales procesar, clasificar y priorizar la información de manera automática y sin errores.
+Cuando los datos se envían bajo un estándar definido (como campos específicos para tipo, ubicación
+o urgencia), se elimina la ambigüedad del lenguaje natural y la necesidad de revisar manualmente
+cada mensaje de forma individual. Esto agiliza de inmediato los tiempos de respuesta de las entidades
+encargadas, facilitando la generación automática de estadísticas, mapas de calor sobre incidencias
+y filtros por nivel de gravedad. En última instancia, la estructura en los datos transforma la
+participación social en una herramienta técnica de alto rendimiento, optimizando los recursos públicos
+y permitiendo dar soluciones rápidas y transparentes a las problemáticas reales de la comunidad.

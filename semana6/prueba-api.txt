@@ -1,0 +1,17 @@
+respuesta del servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+-----
+
+El servidor Express recibió correctamente la petición POST en la ruta '/registro'.
+
+Gracias a la herramienta 'express. json()', el servidor fue capaz de manejar 
+el objeto JSON que se envió en el cuerpo de la solicitud. El endpoint tomó las 
+propiedades 'nombre' y 'mensaje', y respondió con otro objeto JSON que confirma 
+que los datos fueron recibidos correctamente, retornando el estado "Datos recibidos" 
+junto con la información original.
+

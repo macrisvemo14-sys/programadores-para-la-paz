@@ -1,0 +1,7 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días.",
+  "ubicacion": "Parque principal del barrio, Calle 5 con Carrera 10",
+  "prioridad": "Alta",
+  "fecha_reporte": "2026-07-15T15:05:00Z"
+}

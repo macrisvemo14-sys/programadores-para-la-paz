@@ -1,0 +1,18 @@
+EXPLICACIÓN DE CONSULTA EN GET /reportes:
+
+Cuando se realiza una solicitud GET a la ruta 'http://localhost:3000/reportes' después de haber enviado datos mediante el método POST, ocurre lo siguiente:
+
+1. El servidor accede al arreglo local en memoria llamado 'reportes'.
+2. Devuelve un código de estado 200 OK junto con un arreglo en formato JSON que contiene el listado completo de todos los reportes registrados dinámicamente hasta el momento.
+3. Cada reporte dentro del arreglo incluye automáticamente una propiedad "id" incremental generada por el servidor, además de los datos de "tipo" y "descripcion" que fueron enviados en la solicitud POST original.
+
+EJEMPLO DE RESPUESTA OBTENIDA (GET):
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+NOTA: Como los datos se guardan temporalmente en un arreglo en memoria dinámica (let reportes = []), si el servidor se detiene o se reinicia con Ctrl + C, el arreglo volverá a estar vacío ([]) hasta que se envíen nuevas peticiones POST.

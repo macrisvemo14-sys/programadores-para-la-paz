@@ -1,0 +1,9 @@
+Las APIs actúan como puentes de comunicación estandarizados que permiten conectar diferentes
+aplicaciones y sistemas comunitarios, logrando que los reportes, alertas e informaciones locales
+fluyan de manera automática y estructurada. Al definir reglas claras para el intercambio de datos,
+una API evita la acumulación de mensajes desorganizados, canalizando cada reporte (como daños
+viales o emergencias) hacia una base de datos centralizada bajo formatos estandarizados (JSON).
+Esto facilita que desarrolladores locales construyan tableros de control visuales, aplicaciones
+móviles de alerta temprana o sistemas de notificación automatizados que consuman dicha información.
+De este modo, la tecnología API transforma los reportes ciudadanos individuales en datos públicos
+organizados, procesables y de libre acceso, optimizando la toma de decisiones y la respuesta comunitaria.

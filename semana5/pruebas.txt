@@ -1,0 +1,11 @@
+http://localhost:3000
+Respuesta: Muestra el mensaje "Servidor activo".
+Qué ocurre: La ruta raíz de tipo GET se ejecuta de manera exitosa y devuelve un texto plano confirmando que el servidor está en funcionamiento.
+
+http://localhost:3000/saludo
+Respuesta: Muestra el mensaje "Hola comunidad".
+Qué ocurre: Se activa el endpoint "/saludo" mediante una solicitud GET, respondiendo con un saludo estático dirigido a la comunidad.
+
+http://localhost:3000/mensaje/juan
+Respuesta: Muestra el mensaje "Hola juan".
+Qué ocurre: La ruta utiliza un parámetro dinámico llamado ":nombre" en la URL (en este caso, "juan"). El servidor extrae ese parámetro usando "req.params.nombre" y lo concatena en la respuesta para enviar un saludo personalizado.

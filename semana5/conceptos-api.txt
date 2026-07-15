@@ -1,0 +1,12 @@
+EXPLICACIÓN DE LA RUTA (POST /reporte):
+Esta ruta define un endpoint de tipo POST que recibe datos enviados por el cliente dentro del cuerpo
+de la solicitud (en formato JSON bajo la propiedad "mensaje"). Al ejecutarse, procesa esta información
+a través de "req.body.mensaje" y responde al usuario con un objeto JSON que confirma la recepción exitosa
+del reporte e incluye una copia del mensaje recibido junto a un estado descriptivo.
+
+PARA QUÉ PODRÍA SERVIR EN UNA APLICACIÓN COMUNITARIA:
+En el contexto de una plataforma ciudadana o comunitaria, esta ruta es ideal para habilitar canales de
+participación activa y reporte de incidencias en tiempo real. Por ejemplo, podría servir para que los vecinos
+envíen de manera digital reportes sobre fallos en el alumbrado público, solicitudes de mantenimiento en vías,
+alertas de seguridad del barrio o sugerencias de mejora, permitiendo que la información se centralice y procese
+automáticamente para su posterior gestión.

@@ -1,0 +1,8 @@
+Mantener la estabilidad y seguridad en los servidores de plataformas comunitarias es una prioridad
+tecnológica y social, ya que estas herramientas actúan como el puente directo entre los ciudadanos
+y la resolución de sus problemas cotidianos. Si la infraestructura presenta caídas constantes,
+los usuarios perderán el interés en participar al percibir la plataforma como inútil o ineficaz.
+Por otro lado, la falta de seguridad expone al sistema a hackeos que podrían alterar reportes legítimos,
+generar pánico con información falsa o filtrar datos privados de los denunciantes. Un servidor
+robusto y seguro no solo protege el flujo técnico de los datos, sino que resguarda la integridad
+del proceso participativo, consolidando un espacio confiable para la gestión y el cambio comunitario.

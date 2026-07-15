@@ -1,0 +1,15 @@
+REGISTRO DE EJECUCIÓN DEL SERVIDOR (semana9)
+
+1. Qué ocurre cuando ejecutas 'node server.js':
+   El motor de tiempo de ejecución Node.js inicia la ejecución de nuestro script. Se importa la librería Express, se inicializa la aplicación y se asocian las rutas '/' y '/estado' al servidor. Posteriormente, el proceso se queda escuchando de forma activa y permanente las solicitudes entrantes en el puerto 3000.
+
+2. Qué mensaje aparece en la terminal:
+   Al inicializarse de manera exitosa, el servidor ejecuta la función de callback de 'app.listen' e imprime en la consola el siguiente mensaje informativo:
+   "Servidor ejecutándose en puerto 3000"
+
+3. Qué sucede cuando visitas la ruta '/estado':
+   Cuando un cliente (como un navegador, Postman o curl) accede a 'http://localhost:3000/estado' mediante una petición HTTP GET, el servidor activa el endpoint '/estado' y responde de inmediato enviando un objeto de datos estructurado en formato JSON con la siguiente información:
+   {
+     "estado": "Servidor funcionando",
+     "servicio": "API comunitaria"
+   }

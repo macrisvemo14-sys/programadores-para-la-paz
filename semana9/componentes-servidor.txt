@@ -1,0 +1,26 @@
+FUNCIONES DE LOS COMPONENTES DE UN SERVIDOR
+
+Sistema operativo
+Es el software base que administra los recursos de hardware (como CPU, memoria y almacenamiento).
+Proporciona el entorno de ejecución, la seguridad básica y la interfaz de red para que todos los
+programas de servidor puedan ejecutarse y comunicarse de forma óptima.
+
+Node.js
+Es un entorno de ejecución para JavaScript fuera del navegador, construido con el motor V8 de Chrome.
+Permite ejecutar código de servidor de forma asíncrona y ultra rápida, ideal para manejar múltiples
+conexiones y flujos de datos concurrentes con un excelente rendimiento.
+
+Aplicación server.js
+Es el archivo de código escrito por el desarrollador que define la lógica de negocio del servidor.
+Utiliza Express para estructurar rutas específicas, procesar solicitudes entrantes y enviar respuestas
+personalizadas en formatos como texto plano o JSON.
+
+Puerto
+Es un punto final de comunicación o canal numérico virtual (como el puerto 3000) asignado en el servidor.
+Sirve para direccionar el tráfico de red de forma precisa, permitiendo que las peticiones de los clientes
+lleguen exactamente a la aplicación asignada y no a otra.
+
+Logs
+Son registros históricos detallados generados de forma continua que guardan las actividades del servidor.
+Sirven para depurar errores de código, auditar la seguridad y monitorear el comportamiento de las rutas,
+facilitando el mantenimiento ante cualquier imprevisto o fallo.

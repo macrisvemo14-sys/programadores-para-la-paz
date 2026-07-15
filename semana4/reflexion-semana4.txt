@@ -1,0 +1,9 @@
+La apropiación de tecnologías abiertas como Node.js permite a las comunidades construir su propia
+soberanía tecnológica, diseñando soluciones a la medida de sus realidades locales sin depender de
+grandes corporaciones o software privado costoso. Al utilizar herramientas de código abierto,
+las iniciativas ciudadanas reducen drásticamente las barreras de entrada económicas y de desarrollo,
+aprovechando un ecosistema colaborativo y maduro que acelera la creación de plataformas de
+veeduría, redes de apoyo comunitario o mapas de datos locales. Este proceso fomenta la participación
+activa y descentralizada de los ciudadanos, quienes dejan de ser meros consumidores pasivos de
+tecnología para convertirse en creadores de su propio destino digital, garantizando la transparencia,
+el acceso libre a la información y el bienestar común mediante un código auditable, libre y adaptable.

@@ -1,0 +1,9 @@
+HISTORIAS DE USUARIO - PLATAFORMA DE VEEDURÍA CIUDADANA Y CONTROL SOCIAL
+
+Como ciudadano quiero poder filtrar los reportes de mi comuna en un mapa para identificar cuáles son las problemáticas más comunes en mi barrio.
+
+Como veedor ciudadano quiero exportar un reporte consolidado en PDF para presentar evidencias formales ante los entes de control y la alcaldía.
+
+Como administrador de la plataforma quiero clasificar las incidencias por categorías (infraestructura, ambiente, seguridad) para asignarlas automáticamente al equipo técnico correspondiente.
+
+Como vecino quiero votar o apoyar los reportes de mi sector para demostrar que es una problemática colectiva y prioritaria para la comunidad.

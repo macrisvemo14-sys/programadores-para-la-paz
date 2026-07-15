@@ -1,0 +1,24 @@
+FLUJO DE AUTOMATIZACIÓN (n8n + Telegram) - SEMANA 10
+
+1. ¿Qué evento activa el flujo? (Trigger)
+   - Evento: Nuevo reporte ciudadano registrado en la base de datos (por ejemplo, a través de un nodo Webhook de n8n o un nodo activador "On Row Added" de PostgreSQL/Airtable).
+
+2. ¿Qué acción realiza el flujo?
+   - Acción: El flujo de n8n procesa el payload entrante, filtra la información crítica y utiliza el nodo de Telegram para enviar un mensaje automatizado e inmediato al canal privado del equipo de veeduría o soporte.
+
+3. ¿Qué mensaje se enviaría a Telegram?
+   - Mensaje:
+     "⚠️ NUEVO REPORTE REGISTRADO ⚠️
+     • ID del reporte: #{{$json.id}}
+     • Categoría: {{$json.tipo}}
+     • Resumen: {{$json.descripcion}}
+     • Estado: Pendiente de revisión
+     
+     Por favor, ingresa al panel administrativo seguro para revisar el caso completo."
+
+4. ¿Qué información no debería enviarse por seguridad?
+   Por razones estrictas de privacidad y seguridad digital, los siguientes datos confidenciales jamás deben viajar en el cuerpo del mensaje de Telegram:
+   - Datos personales identificables (PII): Nombres completos del denunciante, números de documento de identidad (Cédula), teléfonos o correos electrónicos.
+   - Datos geográficos exactos: Direcciones domiciliarias privadas (se debe mapear únicamente por Comuna, Sector o Barrio general).
+   - Credenciales de acceso: Claves, tokens de sesión o contraseñas del usuario.
+   - Fotos o evidencias multimedia que puedan comprometer directamente la integridad o revelar el rostro de un ciudadano sin su consentimiento.

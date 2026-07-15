@@ -1,0 +1,16 @@
+PRIORIZACIÓN Y DEFINICIÓN DE "TERMINADO" (WEEK 10)
+
+1. ¿Qué 2 tareas del backlog harías primero?
+   - Tarea A: "Filtrar los reportes de mi comuna en un mapa" (Permite visualizar el problema real de forma geográfica).
+   - Tarea B: "Clasificar las incidencias por categorías" (Permite organizar y estructurar los datos del sistema para que sean legibles y derivables).
+
+2. ¿Por qué son las más importantes?
+   Estas dos tareas representan la columna vertebral de un Producto Mínimo Viable (MVP). Sin una categorización clara de los reportes y una visualización geográfica (el mapa), la plataforma pierde su valor principal de georreferenciación y orden. Resolver la organización interna de los datos y su visualización espacial primero, sienta las bases técnicas indispensables para que después funciones adicionales (como la votación o la exportación a PDF) tengan sentido práctico y técnico.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+   Para mí, significa que la funcionalidad no solo ha sido codificada por el desarrollador, sino que cumple con los estándares de calidad del equipo, ha sido validada y está completamente lista para ser desplegada en producción sin generar fallos secundarios.
+
+4. Definición simple de terminado (Criterios):
+   - Código funcional y probado: La característica cumple con todos los requisitos funcionales de la historia de usuario y pasó las pruebas locales sin errores en consola.
+   - Revisión de código y Git: El código fue integrado a la rama principal mediante un Pull Request que fue revisado por otro compañero, resolviendo conflictos y documentando el commit.
+   - Despliegue y validación en entorno de pruebas: La funcionalidad fue desplegada en un servidor o entorno de staging (pruebas) y se verificó que sea completamente responsiva y segura.

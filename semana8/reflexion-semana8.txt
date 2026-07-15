@@ -1,0 +1,9 @@
+La seguridad digital es indispensable en plataformas de participación ciudadana porque protege la
+confianza de la comunidad, garantizando que el espacio digital sea seguro, libre y confiable. Si los
+datos personales de los vecinos quedaran expuestos, o si el sistema sufriera manipulaciones en sus
+reportes, se generaría un clima de desconfianza que ahuyentaría la colaboración de los ciudadanos.
+Además, proteger estas herramientas evita ataques de denegación de servicio que silencien la voz
+comunitaria, o la inyección de información falsa que desvíe la atención de las necesidades reales.
+Por ende, blindar técnicamente estos sistemas con contraseñas seguras, cifrado y control de accesos
+no solo resguarda la privacidad de las personas involucradas, sino que blinda el ejercicio democrático,
+asegurando la transparencia, la integridad de los datos y la sostenibilidad de los proyectos sociales.

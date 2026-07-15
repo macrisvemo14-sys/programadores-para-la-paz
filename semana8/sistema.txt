@@ -1,0 +1,16 @@
+INFORMACIÓN QUE MUESTRA CADA COMANDO:
+
+1. 'uname -a':
+   Muestra toda la información detallada del sistema operativo y del kernel que está corriendo en la máquina. Esto incluye el nombre del sistema operativo (por ejemplo, Linux), el nombre de red del host, la versión del kernel, la fecha de compilación de este y la arquitectura del procesador (como x86_64 o arm64).
+
+2. 'whoami':
+   Muestra el nombre exacto del usuario actual con el que se está ejecutando la sesión en la terminal. Esencial para saber qué nivel de privilegios tienes activos (por ejemplo, si eres el usuario "root" o un usuario común sin permisos administrativos).
+
+
+IMPORTANCIA DE CONOCER ESTA INFORMACIÓN AL ADMINISTRAR UN SERVIDOR:
+
+Al administrar o dar soporte a un servidor, conocer el sistema es crucial por las siguientes razones:
+
+- Gestión de permisos y seguridad: El comando 'whoami' te ayuda a confirmar tu identidad antes de ejecutar scripts delicados o comandos que afecten a todo el sistema, evitando errores catastróficos por operar con permisos inapropiados o elevados (como root).
+- Instalación de software y actualizaciones: Con 'uname -a' identificas de forma precisa el kernel y la arquitectura. Muchas bases de datos, librerías, dependencias o parches de seguridad de bajo nivel requieren paquetes específicos para tu versión de kernel o tipo de arquitectura (32 bits, 64 bits o ARM).
+- Diagnóstico de fallos: Permite a los administradores comprobar rápidamente si un servidor remoto ha sido actualizado recientemente o si sigue corriendo una versión antigua del sistema que contenga fallos conocidos de compatibilidad o seguridad.

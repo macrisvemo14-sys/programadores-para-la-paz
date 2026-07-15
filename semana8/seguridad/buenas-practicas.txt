@@ -1,0 +1,17 @@
+PRÁCTICAS BÁSICAS DE SEGURIDAD DIGITAL
+
+1. PROTEGER Y ROBUSTECER LAS CONTRASEÑAS
+   - Utiliza combinaciones complejas que incluyan mayúsculas, minúsculas, números y caracteres especiales. 
+   - Evita el uso de datos personales obvios (como fechas de nacimiento) y apóyate en gestores de contraseñas 
+     seguros para no reutilizar la misma clave en diferentes plataformas.
+
+2. NO COMPARTIR CREDENCIALES DE ACCESO
+   - Las contraseñas, tokens de autenticación y códigos de verificación de un solo uso (OTP) son estrictamente 
+     personales. 
+   - Nunca reveles estas credenciales a través de chats, correos electrónicos o llamadas telefónicas, ya que las 
+     entidades legítimas nunca te solicitarán tus claves de acceso por esos medios.
+
+3. MANTENER EL SOFTWARE Y SISTEMAS ACTUALIZADOS
+   - Instala de manera oportuna las actualizaciones del sistema operativo, navegadores y aplicaciones instaladas. 
+   - Estas actualizaciones suelen incluir parches de seguridad críticos que corrigen vulnerabilidades recién 
+     descubiertas, bloqueando posibles vías de acceso para software malicioso o atacantes.

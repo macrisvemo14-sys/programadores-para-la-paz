@@ -1,0 +1,21 @@
+PRÁCTICAS DE SEGURIDAD PARA UNA PLATAFORMA DIGITAL COMUNITARIA
+
+1. NO EXPONER DATOS PERSONALES
+   - Evita mostrar información de identificación personal (como números de teléfono completos, direcciones físicas exactas, correos electrónicos o documentos) de manera pública en la plataforma. 
+   - Utiliza técnicas de anonimización, enmascaramiento o campos de visibilidad restringida para asegurar que esta información solo sea accesible para los administradores autorizados.
+
+2. PROTEGER LAS CREDENCIALES DE ACCESO
+   - Implementa políticas robustas de contraseñas y exige a los usuarios y administradores claves complejas (con caracteres especiales, números y letras).
+   - Siempre almacena las contraseñas en la base de datos utilizando algoritmos de encriptación seguros y de un solo sentido (hashing con salt, como bcrypt), evitando a toda costa guardarlas en texto plano.
+
+3. USAR CONEXIONES SEGURAS (HTTPS)
+   - Obliga a que toda la navegación y el tráfico de datos entre los ciudadanos y la plataforma se realicen mediante el protocolo de cifrado SSL/TLS (HTTPS).
+   - Esto evita que atacantes intercepten o alteren reportes, contraseñas o datos de ubicación mediante ataques de intermediario (Man-in-the-Middle) en redes Wi-Fi públicas o comunitarias.
+
+4. REGISTRAR Y MONITOREAR LOS ACCESOS (AUDIT LOGS)
+   - Mantener un registro histórico (logs) detallado e inalterable de quién entra al sistema y qué acciones realiza (como inicios de sesión, cambios de contraseña o edición de reportes).
+   - Esto permite detectar a tiempo comportamientos inusuales, accesos sospechosos o posibles intrusiones, facilitando una auditoría posterior si ocurre algún incidente de seguridad.
+
+5. LIMITAR EL ACCESO A INFORMACIÓN SENSIBLE (MÍNIMO PRIVILEGIO)
+   - Configura un sistema de Control de Acceso Basado en Roles (RBAC), otorgando a cada usuario únicamente los permisos necesarios para realizar sus tareas.
+   - Por ejemplo, un ciudadano común solo debe poder ver el mapa general y enviar reportes, mientras que un técnico externo solo debe acceder al reporte asignado, restringiendo el acceso total a la base de datos solo a superadministradores de absoluta confianza.
